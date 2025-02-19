@@ -1,1 +1,1 @@
-# ONE desafio logico da oracle 
+# desafio logico da oracle 
